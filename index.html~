@@ -1,0 +1,259 @@
+Last login: Tue Sep 23 22:36:01 on ttys006
+Gabrielle-Cellas-MacBook-Pro:~ gabriellecella$ cd Desktop/
+Gabrielle-Cellas-MacBook-Pro:Desktop gabriellecella$ ls
+Code				bowl.jpg
+Desktop Screenshots		chill.jpg
+GCellaAPScores.pdf		facebook2
+GCella_Paytronix_Offer.pdf	fall_gala.pdf
+Housing 13-14 (Lease).pdf	four crazy back - Version 4.jpg
+Job Search.xlsx			hand.jpg
+Life.jpg			mchowRepoCopyExample
+Posters				potentialdemotivator.jpg
+Sevilla				snapsforfacebook
+UnofficialTranscript090514.pdf	travel quote.png
+WebProgramming2014		wee 2.jpg
+WorldCivPetition090514.pdf	white.jpg
+a.out.dSYM			~$Job Search.xlsx
+Gabrielle-Cellas-MacBook-Pro:Desktop gabriellecella$ cd WebProgramming2014/
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ ls
+hello-world
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ clear
+
+
+
+
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ ls
+hello-world
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ cd hello-world/
+Gabrielle-Cellas-MacBook-Pro:hello-world gabriellecella$ ls
+README.md	ostrich.jpg
+Gabrielle-Cellas-MacBook-Pro:hello-world gabriellecella$ cd ..
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ mkdir assignment1
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ cd assignment1/
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ l
+s-bash: l: command not found
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ sls
+-bash: sls: command not found
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ssh gcella01@homework.cs.tufts.edu
+gcella01@homework.cs.tufts.edu's password: 
+Last login: Tue Sep 23 22:37:49 2014 from 209-6-95-64.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com
+Disk quotas for user gcella01 (uid 34392): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+netapp02:/vol/tufts_ugrad2
+                   382M    450M    500M            3873   56320   61440        
+netapp02:/vol/g/40
+                  12500   1843M   2048M             792    236k    263k        
+~ > mkdir public_html
+mkdir: cannot create directory `public_html': File exists
+~ > ls
+%backup%~  Downloads  Pictures     sharri03@homework.cs.tufts.edu  Videos
+Desktop    killff     Public       stridelab
+Documents  Music      public_html  Templates
+~ > cd public_html/
+~/public_html > ls
+bog15
+~/public_html > cd ..
+~ > chmod 755 public_html/
+~ > chmod 711 ~
+~ > chmod 755 ~/.
+~ > exit
+logout
+
+dell24: gcella01 logged out at Wed Sep 24 18:14:06 EDT 2014
+Connection to homework.cs.tufts.edu closed.
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ cd ..
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ ls
+assignment1	gcellapic.png	hello-world
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ mv gcellapic.png assignment1/
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ ls
+assignment1	hello-world
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabrielle-Cellas-MacBook-Pro:WebProgramming2014 gabriellecella$ cd assignment1/
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcellapic.png
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcellapic.png
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ touch index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcellapic.png	index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ssh gcella01@homework.cs.tufts.edu
+gcella01@homework.cs.tufts.edu's password: 
+Last login: Wed Sep 24 18:00:59 2014 from 209-6-95-64.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com
+Disk quotas for user gcella01 (uid 34392): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+netapp02:/vol/tufts_ugrad2
+                   382M    450M    500M            3873   56320   61440        
+netapp02:/vol/g/40
+                  12500   1843M   2048M             792    236k    263k        
+~ > cd public_html/
+~/public_html > ls
+bog15
+~/public_html > emacs index.html
+~/public_html > chmod 644 index.html
+~/public_html > exit
+logout
+
+dell24: gcella01 logged out at Wed Sep 24 18:41:06 EDT 2014
+Connection to homework.cs.tufts.edu closed.
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ 
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ 
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ 
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcellapic.png	index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcellapic.png	index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ git clone https://github.com/gcella/gcella.github.io.git
+Cloning into 'gcella.github.io'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (3/3), done.
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcella.github.io	gcellapic.png		index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ cd gcella.github.io/
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ ls
+README.md
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ emacs README.md 
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ cd ..
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcella.github.io	gcellapic.png		index.html
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ mv gcellapic.png gcella.github.io/
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ mv index.html gcella.github.io/
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcella.github.io
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ clear
+
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ ls
+gcella.github.io
+Gabrielle-Cellas-MacBook-Pro:assignment1 gabriellecella$ cd gcella.github.io/
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ ls
+README.md	gcellapic.png	index.html
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git status
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	gcellapic.png
+#	index.html
+nothing added to commit but untracked files present (use "git add" to track)
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git add .
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git commit -m 'setting up page to see what works'
+[master 7358925] setting up page to see what works
+ 2 files changed, 15 insertions(+)
+ create mode 100644 gcellapic.png
+ create mode 100644 index.html
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git push
+Counting objects: 5, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 260.09 KiB, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/gcella/gcella.github.io.git
+   68a0829..7358925  master -> master
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git add .
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git commit -m 'close html tag'
+# On branch master
+nothing to commit (working directory clean)
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ git push
+Everything up-to-date
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ ls
+README.md	gcellapic.png	index.html
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ ls -l
+total 536
+-rw-r--r--  1 gabriellecella  staff      34 Sep 24 18:53 README.md
+-rw-r--r--@ 1 gabriellecella  staff  265972 Sep 24 18:13 gcellapic.png
+-rw-r--r--  1 gabriellecella  staff     255 Sep 24 18:48 index.html
+Gabrielle-Cellas-MacBook-Pro:gcella.github.io gabriellecella$ emacs index.html 
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Gabrielle Cella</title>
+<meta charset="utf-8" />
+</head>
+
+<body>
+        <h1> Gabrielle Cella</h1>
+        <img src="gcellapic.png" alt="gcella">
+        <a href="www.google.com">Resume</a>
+        <a href="www.google.com">Biography</a>
+
+</body>
+</html>
+
+
+
+
+
+
+-uu-:**-F1  index.html     All L16    (HTML)------------------------------------
+
