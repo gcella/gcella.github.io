@@ -1,0 +1,77 @@
+body {
+	background-color: #9FBFBF;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+}
+
+#page_title {
+	text-align: center;
+	font-size: 50px;
+	font-family: "Lucida Sans Unicode";
+	margin-bottom: 0px;
+}
+
+/* stuff for index.html */
+#headshot {
+	height: 300px;
+	display: block;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bottom_links {
+	text-align: center;
+}
+
+.link_style {
+	color: black;
+	text-decoration: none;
+	font-family: "Lucida Sans Unicode";
+	font-size: 25px;
+}
+
+/*resume stuff*/
+h3 {
+	font-family: "Lucida Sans Unicode";
+}
+
+.subsection {
+	font-size: 14px;
+	font-family: "Lucida Grande";
+
+}
+
+.location {
+	font-weight: 900;
+}
+
+.position {
+	font-style: italic;
+}
+
+p + ul {
+	margin-top: -10px;
+}
+
+ul {
+	font-family: "Lucida Grande";
+	font-size: 14px;
+}
+
+/* short bio */
+
+#biotext {
+	display: block;
+	margin-top: 30px;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: "Lucida Grande";
+}
